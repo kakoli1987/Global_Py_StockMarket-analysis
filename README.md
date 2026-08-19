@@ -1,6 +1,4 @@
 # Global_Py_StockMarket-analysis
-Global Real-Time Stock &amp; AI Intelligence Platform built with Python, Streamlit, and Plotly. Features live multi-market financial data tracking (US, Japan, India, UK), advanced technical indicators (Bollinger Bands, RSI), automated trade action signals, and an interactive risk management calculator.
-
 A real-time financial market analytics and AI heuristic intelligence web application built with Python and Streamlit. Designed to track global equities (US, Japan, India, UK), visualize complex financial indicators, and provide interactive trade risk management tools.
 
 ## 🚀 Key Features
@@ -19,5 +17,5 @@ A real-time financial market analytics and AI heuristic intelligence web applica
 ## 📦 Local Installation & Running
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/Global_Py_StockMarket-analysis.git](https://github.com/your-username/Global_Py_StockMarket-analysis.git)
+   git clone [https://github.com/kakoli1987/Global_Py_StockMarket-analysis.git](https://github.com/kakoli1987/Global_Py_StockMarket-analysis.git)
    cd Global_Py_StockMarket-analysis
