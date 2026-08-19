@@ -19,5 +19,5 @@ A real-time financial market analytics and AI heuristic intelligence web applica
 ## 📦 Local Installation & Running
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/global-stock-analysis-app.git](https://github.com/your-username/global-stock-analysis-app.git)
-   cd global-stock-analysis-app
+   git clone [https://github.com/your-username/Global_Py_StockMarket-analysis.git](https://github.com/your-username/Global_Py_StockMarket-analysis.git)
+   cd Global_Py_StockMarket-analysis
