@@ -1,0 +1,33 @@
+# Real-Time Global Stock Analysis & AI Signal Engine 🚀
+
+A full-stack, modular quantitative stock analytics web application built in Python using Streamlit, designed for global asset evaluation, technical breakout identification, and automated trading signal notifications.
+
+---
+
+## 💡 Key Features & Requirements Met
+
+1. **Live Data Integration:** Real-time quote streaming and metadata processing via global ticker formatting (`yfinance`).
+2. **Multi-Timeframe Granularity:** Instantly switch between 1-minute intraday windows, monthly charts, and 5-year multi-year macroeconomic histories.
+3. **Resizable Dynamic Visualizations:** Built with Plotly candlesticks, allowing pan, zoom, and responsive resizing across desktop and mobile browsers.
+4. **Universal Global Stock Search:** Built-in suffix support covering US, Tokyo, London, and Indian exchanges.
+5. **Per-Stock Analytical Profile:** Comprehensive tearing-sheet layout tracking EPS, Book Value, 52-week parameters, and Short ratios.
+6. **AI Heuristic Diagnostic Report:** Automated computational text generator evaluating indicator states (RSI, Bollinger breakouts, and volume anomalies).
+7. **Actionable Trade Messaging:** Dynamic buy/sell rule-based trigger engine calculating real-time entry and exit levels.
+
+---
+
+## 🛠️ Tech Stack & Methods
+* **Language:** Python
+* **Web UI Framework:** Streamlit
+* **Data Engineering & Wrangling:** Pandas, NumPy
+* **Data Sources:** Yahoo Finance API Pipeline
+* **Interactive Visualization:** Plotly Graph Objects
+
+---
+
+## 🚀 Installation & Local Execution
+
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/YOUR_USERNAME/stock-analysis-app.git](https://github.com/YOUR_USERNAME/stock-analysis-app.git)
+   cd stock-analysis-app

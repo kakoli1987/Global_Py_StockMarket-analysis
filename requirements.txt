@@ -1,0 +1,8 @@
+streamlit
+yfinance
+pandas
+plotly
+streamlit-autorefresh
+
+
+streamlit run app.py
